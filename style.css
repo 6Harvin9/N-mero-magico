@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: linear-gradient(135deg, #004aad, #001b44);
+    color:white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    
+}
+
+.container {
+    display: flex;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    overflow: hidden;
+    width: 80%;
+    max-width: 1000px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+
+}
+
+.game-panel {
+    flex: 1;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+
+}
+
+p {
+    margin-bottom: 10px;
+
+}
+
+input{
+    padding: 12px;
+    font-size: 16px;        
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    width: 80%;
+    margin-bottom: 15px;
+
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+
+}
+
+.primary {
+    background-color: #007bff;
+    color: white;
+
+}
+
+.secondary {
+    background-color: #6c757d;
+    color: white;
+
+}
+
+.primary:hover {
+    background-color: #0056b3;
+
+}
+
+.secondary:hover {
+    background-color: #5a6268;
+
+}
+
+.imagen-panel {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.1);
+
+}
+
+.imagen-panel img {
+    max-width: 80%;
+    height: auto;
+    
+}
