@@ -43,7 +43,8 @@ Cada intento muestra pistas para acercarse a la respuesta correcta.
 ## 🌐 Demo
 Si el juego está publicado en Vercel o GitHub Pages, agrega aquí el link:  
 👉 [Jugar al Número Secreto](https://portafolio1-git-6harvin9-numeromagico-harvin-berroas-projects.vercel.app)
-👉 [Jugar al Número Secreto](https://github.com/6Harvin9/N-mero-magico.git)
+
+👉 [Github](https://github.com/6Harvin9/N-mero-magico.git)
 
 ---
 
