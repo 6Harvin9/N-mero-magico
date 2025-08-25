@@ -40,15 +40,11 @@ Cada intento muestra pistas para acercarse a la respuesta correcta.
 
 ---
 
-## 📷 Vista previa
-*(Aquí puedes añadir una captura de pantalla del juego en acción)*  
-
----
-
 ## 🌐 Demo
 Si el juego está publicado en Vercel o GitHub Pages, agrega aquí el link:  
-👉 [Jugar al Número Secreto](https://tu-link-aqui.com)  
+👉 [Jugar al Número Secreto](https://portafolio1-git-6harvin9-numeromagico-harvin-berroas-projects.vercel.app)
+👉 [Jugar al Número Secreto](https://github.com/6Harvin9/N-mero-magico.git)
 
 ---
 
-✍️ Desarrollado por **Harvin Samir Berroa Celesten**
+✍️ Desarrollado por **Harvin Samir Berroa Celesten / 23-SISN-2-050**
