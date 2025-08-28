@@ -17,7 +17,6 @@ document.getElementById('btn-intentar').addEventListener('click', function() {
   let input = document.getElementById('numero');
   let valor = input.value.trim();
 
-  // Validaciones
   if (valor === '' || isNaN(valor)) {
     alert('Por favor, ingresa un número válido.');
     return;
@@ -51,3 +50,4 @@ document.getElementById('btn-intentar').addEventListener('click', function() {
 document.getElementById('btn-nuevo').addEventListener('click', iniciarJuego);
 
 iniciarJuego();
+
